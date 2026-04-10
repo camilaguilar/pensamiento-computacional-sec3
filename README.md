@@ -9,6 +9,10 @@ Para la elección de la obra, me fijé en que tuviera una estructura repetitiva,
 
 ![iamgen](https://www.sollewittprints.org/wp-content/uploads/2019/02/lewitt_w_16_image2__800_.jpg)
 
+**LINK P5.JS**
+https://editor.p5js.org/camila.aguilar2/sketches/7ri6UH7vf
+
+
 ## Sketch 1 — Mi primer p5.js
 — Qué hice primero:    
 Lo primero que realice fue una grilla vía illustrator sobre la obra que seleccione, esto me ayudo a visualizar de mejor manera las formas, la cantidad especifica que necesitaba, como distribuirlas en el plano, que figuras utilizar, además de todos los códigos especificos de color.
