@@ -1,4 +1,4 @@
-# pensamiento computacional- p5.js / sec3
+# pensamiento computacional- p5.js / sec3_   Camila Aguilar
 ## Sobre este repositorio
 Ejercicios realizados en clases       
 Entregas/Encargos
