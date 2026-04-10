@@ -27,6 +27,6 @@ Sobre códigos de ubicación, figuras y color.
 La obra original lleva una diagonales en su tercer y cuarto cuadrante, a  pesar de intentarlo varias veces no conseguí que estas se integraran dentro de un cuadro, se interponian sobre las otras figuras, asi que decidí repitir el patrón vertical y horizontal de los dos cuadrantes anteriorescon su respectivo patrón de color.
 
 **IMAGENES PROCESO**
-![descripcion](images/mi-imagen.png)
-![descripcion](images/mi-imagen.png)
-![descripcion](images/mi-imagen.png)
+![Preview](imagenes/foto.png)
+![Preview](imagenes/foto.png)
+![Preview](imagenes/foto.png)
